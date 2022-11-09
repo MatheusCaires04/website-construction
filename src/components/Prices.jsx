@@ -8,7 +8,7 @@ const Prices = () => {
     <div className="w-full px-8 py-6 bg-light-bg" id="pricing">
       <div className="max-w-[1100px] mx-auto">
         <Title title="Our Pricing" color="text-black" />
-        <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-12 lg:gap-16 text-black w-[60%] mx-auto md:w-full">
+        <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-12 lg:gap-16 text-black w-[80%] mx-auto md:w-full">
           <div className="border-[#666] shadow-box-pricing bg-white p-6 flex flex-col items-center">
             <div className="bg-yellow p-3 rounded-full text-xl md:text-3xl">
               <FaHome />

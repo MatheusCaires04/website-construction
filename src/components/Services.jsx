@@ -17,7 +17,7 @@ const Services = () => {
     <div className="w-full px-8 py-6 bg-light-bg" id="services">
       <div className="max-w-[1100px] mx-auto">
         <Title title="Our Services" />
-        <div className="w-[70%] mx-auto sm:w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8">
+        <div className="w-[90%] mx-auto sm:w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-8">
           <CardServices
             imageService={service1}
             titleService="Building Construction"
